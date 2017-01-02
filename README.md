@@ -1,5 +1,7 @@
 # Jensen
 
+Disease:
+
 human_disease_experiment:
 number of terms(lines): 158
 gene statistics:
@@ -21,6 +23,7 @@ mean # of genes: 23
 max set: 2223 (Cancer)
 min set: 7 (AGAT deficiency)
 
+Tissue:
 
 human_tissue_experiment:
 number of terms(lines): 105
@@ -42,6 +45,8 @@ gene statistics:
 mean # of genes: 31
 max set: 1789 (Blood)
 min set: 7 (10T1/2 cell)
+
+Comparments:
 
 human_compartment_experiments:
 number of terms(lines): 56
