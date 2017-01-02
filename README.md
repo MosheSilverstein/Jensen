@@ -1,70 +1,70 @@
 # Jensen
 
-Disease:
+#### Disease:
 
-human_disease_experiment:
-number of terms(lines): 158
-gene statistics:
-mean # of genes: 150
-max set: 11320 (Carcinoma)
-min set: 7 (Adrenal gland cancer)
+human_disease_experiment:<br />
+number of terms(lines): 158<br />
+gene statistics:<br />
+mean # of genes: 150<br />
+max set: 11320 (Carcinoma)<br />
+min set: 7 (Adrenal gland cancer)<br />
 
-human_disease_knowledge:
-number of terms(lines): 140
-gene statistics:
-mean # of genes: 25
-max set: 301 (Cancer)
-min set: 5 (LADD syndrome)
+human_disease_knowledge:<br />
+number of terms(lines): 140<br />
+gene statistics:<br />
+mean # of genes: 25<br />
+max set: 301 (Cancer)<br />
+min set: 5 (LADD syndrome)<br />
 
-human_disease_experiment:
-number of terms(lines): 1740
-gene statistics:
-mean # of genes: 23
-max set: 2223 (Cancer)
-min set: 7 (AGAT deficiency)
+human_disease_experiment:<br />
+number of terms(lines): 1740<br />
+gene statistics:<br />
+mean # of genes: 23<br />
+max set: 2223 (Cancer)<br />
+min set: 7 (AGAT deficiency)<br />
 
-Tissue:
+#### Tissue:
 
-human_tissue_experiment:
-number of terms(lines): 105
-gene statistics:
-mean # of genes: 9066
-max set: 17539 (Testis)
-min set: 120 (Nerve)
+human_tissue_experiment:<br />
+number of terms(lines): 105<br />
+gene statistics:<br />
+mean # of genes: 9066<br />
+max set: 17539 (Testis)<br />
+min set: 120 (Nerve)<br />
 
-human_tissue_knowledge:
-number of terms(lines): 232
-gene statistics:
-mean # of genes: 274
-max set: 7289 (Brain)
-min set: 7 (Corneal epithelium)
+human_tissue_knowledge:<br />
+number of terms(lines): 232<br />
+gene statistics:<br />
+mean # of genes: 274<br />
+max set: 7289 (Brain)<br />
+min set: 7 (Corneal epithelium)<br />
 
-human_tissue_textmining:
-number of terms(lines): 1714
-gene statistics:
-mean # of genes: 31
-max set: 1789 (Blood)
-min set: 7 (10T1/2 cell)
+human_tissue_textmining:<br />
+number of terms(lines): 1714<br />
+gene statistics:<br />
+mean # of genes: 31<br />
+max set: 1789 (Blood)<br />
+min set: 7 (10T1/2 cell)<br />
 
-Comparments:
+#### Comparments:
 
-human_compartment_experiments:
-number of terms(lines): 56
-gene statistics:
-mean # of genes: 2139
-max set: 8431 (cellular_component)
-min set: 59 (Aggresome)
+human_compartment_experiments:<br />
+number of terms(lines): 56<br />
+gene statistics:<br />
+mean # of genes: 2139<br />
+max set: 8431 (cellular_component)<br />
+min set: 59 (Aggresome)<br />
 
-human_compartment_knowledge:
-number of terms(lines): 977
-gene statistics:
-mean # of genes: 397
-max set: 17466 (cellular_component)
-min set: 5 (MIS12/MIND type complex)
+human_compartment_knowledge:<br />
+number of terms(lines): 977<br />
+gene statistics:<br />
+mean # of genes: 397<br />
+max set: 17466 (cellular_component)<br />
+min set: 5 (MIS12/MIND type complex)<br />
 
-human_compartment_textmining:
-number of terms(lines): 2179
-gene statistics:
-mean # of genes: 284
-max set: 11407 (cellular_component)
-min set: 7 (Azurophil granule membrane)
+human_compartment_textmining:<br />
+number of terms(lines): 2179<br />
+gene statistics:<br />
+mean # of genes: 284<br />
+max set: 11407 (cellular_component)<br />
+min set: 7 (Azurophil granule membrane)<br />
