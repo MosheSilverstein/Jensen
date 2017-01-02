@@ -2,12 +2,12 @@
 
 Disease:
 
-human_disease_experiment: \n
-number of terms(lines): 158 \n
-gene statistics: \n
-mean # of genes: 150 \n
-max set: 11320 (Carcinoma) \n
-min set: 7 (Adrenal gland cancer) \n
+human_disease_experiment:
+number of terms(lines): 158
+gene statistics:
+mean # of genes: 150
+max set: 11320 (Carcinoma)
+min set: 7 (Adrenal gland cancer)
 
 human_disease_knowledge:
 number of terms(lines): 140
